@@ -110,3 +110,4 @@ strandSelect.addEventListener('change', function() {
    });
   }
 })
+//POGI SI RICK RAVEN
